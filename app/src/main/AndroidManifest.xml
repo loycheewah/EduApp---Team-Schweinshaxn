@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.eduapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Edu App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity android:name=".Login.LoginManager">
+            android:windowSoftInputMode="stateHidden"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Rate.RateActivity"> </activity>
+
+        <activity android:name=".Rate.RateResult"> </activity>
+
+        <activity android:name=".Login.WelcomeActivity"> </activity>
+
+        <activity android:name=".Register.RegisterUI">
+            android:windowSoftInputMode="stateHidden"</activity>
+
+        <activity android:name=".Register.VerificationUI"> </activity>
+
+        <activity android:name=".WelcomePage">  </activity>
+
+        <activity android:name=".Search.SearchActivity">  </activity>
+
+        <activity android:name=".JobDemand.JobDemandActivity">  </activity>
+
+        <activity android:name=".Search.ResultsActivity">  </activity>
+
+        <activity android:name=".Search.ViewResultsActivity">  </activity>
+
+        <activity android:name=".Search.ViewCourseDetailsActivity"> </activity>
+
+        <activity android:name=".Search.ViewCourseLearningActivity"> </activity>
+
+        <activity android:name=".Search.ViewFurtherStudiesActivity"> </activity>
+
+        <activity android:name=".JobDemand.ViewConstructionJobDemand"> </activity>
+
+        <activity android:name=".JobDemand.ViewManufacturingJobDemand"> </activity>
+
+        <activity android:name=".JobDemand.ViewServicesJobDemand"> </activity>
+
+        <activity android:name=".JobDemand.ViewOthersJobDemand">  </activity>
+
+    </application>
+
+</manifest>

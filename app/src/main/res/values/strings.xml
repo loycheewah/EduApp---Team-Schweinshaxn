@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">eduApp</string>
+    <string name="username">Username</string>
+    <string name="search">Search</string>
+    <string name="L1R5">L1R5</string>
+    <string name="L1R4">L1R4</string>
+    <string name="Location">Location</string>
+    <string name="done">done</string>
+    <string name="results">results</string>
+    <string name="hello_world">Hello World</string>
+    <string name="l1r5inputtext">L1R5InputText</string>
+    <string name="l1r4inputtext">L1R4InputText</string>
+    <string name="locationinputtext">locationInputText</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_activity_view_course_details">ViewCourseDetailsActivity</string>
+    <string name="click_here"><u>Click here</u></string>
+    <string name="toolbar_home">Home</string>
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_jobdemand">Job Demand</string>
+    <string name="toolbar_rate">Rate</string>
+    <string name="toolbar_logout">Logout</string>
+</resources>

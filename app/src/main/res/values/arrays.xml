@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item> </item>
+        <item>Main Page</item>
+        <item>Job Demand</item>
+        <item>Search</item>
+        <item>Rate</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <string-array name="L1R5_array">
+    <item> </item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+</string-array>
+
+    <string-array name="L1R4_array">
+        <item> </item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item> </item>
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+    </string-array>
+
+    <string-array name="interest_array">
+        <item> </item>
+        <item>Playing computer games</item>
+        <item>Hands on fixing gadgets</item>
+        <item>Numbers,graphs and figures</item>
+        <item>Health issues</item>
+    </string-array>
+
+    <string-array name="industry_array">
+        <item> </item>
+        <item>Manufacturing</item>
+        <item>Computing</item>
+        <item>Data Analytics</item>
+        <item>Medicine</item>
+    </string-array>
+
+    <string-array name="institution_array">
+        <item> </item>
+        <item>Singapore Polytechnic</item>
+        <item>Republic Polytechnic</item>
+        <item>Nanyang Polytechnic</item>
+        <item>Temasek Polytechnic</item>
+        <item>Ngee Ann Polytechnic</item>
+    </string-array>
+
+
+</resources>
